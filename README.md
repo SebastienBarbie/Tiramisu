@@ -1,6 +1,6 @@
-# Tiramisu
-Logiciel de suivi de traitement de cancer
+# Titan by Tiramisu
 
+Logiciel de gestion de base de données collaborative, répertoriant les maladies
 
 lien du POOC :
 
